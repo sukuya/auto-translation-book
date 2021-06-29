@@ -1,7 +1,6 @@
-# Welcome to your Jupyter Book
+# Introduction
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This is book on automatic text and speech translation. This book covers the fundamentals of Automatic Translation with a focus on Speech Translation. 
 
 :::{note}
 Here is a note!
@@ -13,4 +12,3 @@ And here is a code block:
 e = mc^2
 ```
 
-Check out the content pages bundled with this sample book to see more.
